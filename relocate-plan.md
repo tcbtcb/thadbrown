@@ -8,18 +8,18 @@
   - Worked a day from the co-work space on vacation with no problem (green)
 
 ## flywheel integration considerations
-  ### I propose two VPNs active, one in a GCP instance that would be default, one Invensure account (all yellow)
+  - I propose two VPNs active, one in a GCP instance that would be default, one Invensure account (all yellow)
     - I can configure a docker container with a permanent connection to that GCP instance, and do all ssh from there
     - In case that connection is not working, then use the Invenshure VPN and bounce to a machine in the office
     - When accessing front end of installs? Not sure how to go there. For ones without VPN it seems the same regardless
     - All data manipulation happes on cloud instance(s) in the Flywheel dev GCP project
 
-  ### Issue tracking (all red)
+  - Issue tracking (all red)
     - We have been too busy even to test our trial systems. I see Trello as a possible bridge system. Discuss
     - I have been trying to stay more involved in issues as they move to github
     - Ashley is managing the product issues/timelines brilliantly - keeping the two of us working together is critical
 
-  ### Team communication
+  - Team communication
     - I will edge toward attending more meetings at first (sprint/retro, anything implentation related, dev ad hoc) to find a good balance (green)
     - Talking to dev team, having a quicker, lower barrier to use audio may be worth exploring? Something even simpler than slack or hangouts (yellow)
     - this link https://blog.codeship.com/4-tips-for-successful-remote-1-1s/ is a good one to consider, they run fully remote temas
