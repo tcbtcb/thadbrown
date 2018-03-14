@@ -21,16 +21,17 @@
 
   - Team communication
     - I will edge toward attending more meetings at first (sprint/retro, anything implentation related, dev ad hoc) to find a good balance (green)
-    - Talking to dev team, having a quicker, lower barrier to use audio may be worth exploring? Something even simpler than slack or hangouts (yellow)
-    - this link https://blog.codeship.com/4-tips-for-successful-remote-1-1s/ is a good one to consider, they run fully remote temas
+    - Per conversations with dev team, having a quicker, lower barrier to use audio may be worth exploring? Something even simpler than slack or hangouts? (yellow)
+    - this link https://blog.codeship.com/4-tips-for-successful-remote-1-1s/ is a good one to consider, they run fully remote teams
     - I propose fairly regular 'meetups' with people if they can be arranged, i.e. lunchtime chats (green)
+    - Per suggestion, will there be a number of planned return trips or a schedule for them? (yellow)
 
 ## HR/insurance/comp considerations
   - Health insurance is a huge issue. I'm getting conflicting information from different sources. That's something I have to learn (red)
   - Some people I have talked to have suggested that if I'm willing to have a legal address and pay MN taxes, I can remain an employee (yellow)
   - If staying as an Inv/FW employee is possible, I could carry equity, which I assume I can't do as a contractor (yellow)
   - Changes, if any, in proposed comp (red)
-  - Immigration I believe I have figured out, but need to investigate more (yellow)
+  - Immigration I believe I have figured out, but need to investigate more in country (yellow)
 
 ## Schedule (all yellow)
   - Two trade shows this year happen almost consecutively in June. 
