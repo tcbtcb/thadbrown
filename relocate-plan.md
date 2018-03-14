@@ -1,13 +1,13 @@
 # Relocate plan - draft 1 - 2018-03-14
 
-## tech and location considerations
+## Tech and location considerations
   - Found excellent, professional co-working space (green)
   - Internet access in general is excellent, at the space is fantastic (green)
   - Google Fi phone worked seamlessly on local network, no need to change number (green)
   - Travel is easy, approx 45min drive to airport with international flights (green)
   - Worked a day from the co-work space on vacation with no problem (green)
 
-## flywheel integration considerations
+## Flywheel integration considerations
   - I propose two VPNs active, one in a GCP instance that would be default, one Invensure account (all yellow)
     - I can configure a docker container with a permanent connection to that GCP instance, and do all ssh from there
     - In case that connection is not working, then use the Invenshure VPN and bounce to a machine in the office
